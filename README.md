@@ -1,6 +1,7 @@
 # Numpy
 Numpy related file log
 and 
-#pandas 
+# Pandas 
 pandas related file log
+Contains mathplotlib and seaborn visualization files n sklearn imputation techniques
 
